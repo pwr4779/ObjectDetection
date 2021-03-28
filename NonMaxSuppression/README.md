@@ -22,7 +22,7 @@ Do this for each class
 <table border="0">
 <tr>
     <td>
-    <img src="https://github.com/pwr4779/DeepLearning/blob/master/ObjectDetection/NonMaxSuppression/before.png"/>
+    <img src="https://github.com/pwr4779/ObjectDetection/blob/main/NonMaxSuppression/before.png"/>
     </td>
 </tr>
 </table>
@@ -32,7 +32,7 @@ Do this for each class
 <table border="0">
 <tr>
     <td>
-    <img src="https://github.com/pwr4779/DeepLearning/blob/master/ObjectDetection/NonMaxSuppression/after.png"/>
+    <img src="https://github.com/pwr4779/ObjectDetection/blob/main/NonMaxSuppression/after.png"/>
     </td>
 </tr>
 </table>
