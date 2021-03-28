@@ -38,6 +38,14 @@ Do this for each class
 </table>
 
 * [model: yolov3](https://pjreddie.com/darknet/yolo/)
+<table border="0">
+<tr>
+    <td>
+    <img src="https://github.com/pwr4779/ObjectDetection/blob/main/NonMaxSuppression/yolov3.png"/>
+    </td>
+</tr>
+</table>
+
 ### iou code  
 ```python
 def intersection_over_union(box1, box2):
