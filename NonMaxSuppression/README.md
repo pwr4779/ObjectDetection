@@ -22,7 +22,7 @@ Do this for each class
 <table border="0">
 <tr>
     <td>
-    <img src="https://github.com/pwr4779/ObjectDetection/blob/main/NonMaxSuppression/before.png"/>
+    <img src="https://github.com/pwr4779/ObjectDetection/blob/main/NonMaxSuppression/img/before.png"/>
     </td>
 </tr>
 </table>
@@ -32,7 +32,15 @@ Do this for each class
 <table border="0">
 <tr>
     <td>
-    <img src="https://github.com/pwr4779/ObjectDetection/blob/main/NonMaxSuppression/after.png"/>
+    <img src="https://github.com/pwr4779/ObjectDetection/blob/main/NonMaxSuppression/img/after.png"/>
+    </td>
+</tr>
+</table>
+
+<table border="0">
+<tr>
+    <td>
+    <img src="https://github.com/pwr4779/ObjectDetection/blob/main/NonMaxSuppression/img/video_result.gif"/>
     </td>
 </tr>
 </table>
@@ -41,7 +49,7 @@ Do this for each class
 <table border="0">
 <tr>
     <td>
-    <img src="https://github.com/pwr4779/ObjectDetection/blob/main/NonMaxSuppression/yolov3.png"/>
+    <img src="https://github.com/pwr4779/ObjectDetection/blob/main/NonMaxSuppression/img/yolov3.png"/>
     </td>
 </tr>
 </table>
